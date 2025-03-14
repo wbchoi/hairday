@@ -1,7 +1,6 @@
-Instalação:
+Instalação: (dayjs, json-server)
+- npm install
 
-npm i
-
-npm run server
-
-npm run dev
+Execução:
+- npm run dev
+- npm run server
